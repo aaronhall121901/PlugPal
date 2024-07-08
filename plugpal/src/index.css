@@ -1,0 +1,16 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 0.5;
+
+  color: #d0bdf4;
+  background-color: #494D5F;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
